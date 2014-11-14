@@ -16,7 +16,7 @@ script:
   - "{ echo '[defaults]'; echo 'roles_path = ../'; } >> ansible.cfg"
 
   # Create symlink to role with correct name
-  - ln -s ansible-role-php-pear ../darthwade.php-pear
+  - ln -s ansible-role-php-pecl ../darthwade.php-pecl
 
   # Check the role/playbook's syntax.
   - ansible-playbook -i tests/inventory $PLAYBOOK --syntax-check

@@ -3,6 +3,5 @@
   vars:
     php_pecl_extensions:
     - xdebug
-    - opcache
   roles:
     - darthwade.php-pecl
