@@ -1,6 +1,7 @@
 # Ansible Role: PHP PECL 
 [![Build Status](https://travis-ci.org/darthwade/ansible-role-php-pecl.png)](https://travis-ci.org/darthwade/ansible-role-php-pecl)
 [![Gittip](http://img.shields.io/gittip/darthwade.svg)](https://www.gittip.com/darthwade/)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=darthwade&url=https://github.com/darthwade/ansible-role-php-pecl&title=Ansible Role: PHP PECL&language=&tags=github&category=software) 
 
 Ansible role that installs PHP PECL and its extensions.
 
